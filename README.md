@@ -5,6 +5,6 @@
 1. Primer elemento
 2. Segundo elemento
 ---
-#Quick Links#
+# Quick Link #
 ---
-*Website:
+* Website:
